@@ -1,4 +1,4 @@
-# 🗃️ Layoffs Data Cleaning (MySQL)
+# 🗃️ Layoffs Data Cleaning (MySQL) - Data Analytics Project
 
 A comprehensive data cleaning project using **MySQL** to transform a raw global layoffs dataset into a structured and reliable format for analysis.
 
